@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-17T20:51:08 IST" name="Default suite" finished-at="2024-09-17T20:54:31 IST" duration-ms="203120">
+    <groups>
+    </groups>
+    <test started-at="2024-09-17T20:51:08 IST" name="Default test" finished-at="2024-09-17T20:54:31 IST" duration-ms="203120">
+      <class name="demo.LoginTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:51:08 IST" name="BS" finished-at="2024-09-17T20:51:08 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:51:08 IST" name="BT" finished-at="2024-09-17T20:51:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:51:08 IST" name="BC" finished-at="2024-09-17T20:51:54 IST" duration-ms="45869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:51:54 IST" name="BM" finished-at="2024-09-17T20:54:14 IST" duration-ms="139104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="loginIntoApp()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:54:14 IST" name="loginIntoApp" finished-at="2024-09-17T20:54:14 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoApp -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:54:14 IST" name="AM" finished-at="2024-09-17T20:54:28 IST" duration-ms="14470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:54:28 IST" name="AC" finished-at="2024-09-17T20:54:31 IST" duration-ms="3303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:54:31 IST" name="AT" finished-at="2024-09-17T20:54:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:demo.LoginTest@13c9d689]" started-at="2024-09-17T20:54:32 IST" name="AS" finished-at="2024-09-17T20:54:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- demo.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
